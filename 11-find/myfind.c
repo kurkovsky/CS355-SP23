@@ -1,5 +1,5 @@
 /*
-A simple scaffolding to implement myfind (lab 8)
+A simple scaffolding to implement myfind (lab 7)
 based on the long_ls example
 */
 
